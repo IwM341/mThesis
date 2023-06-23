@@ -23,10 +23,11 @@ times, % use Times font as main
 \usepackage{bm} % полужирное начертание для математических символов
 \usepackage{amsmath} % дополнительные математические возможности
 \usepackage{amssymb} % дополнительные математические символы
-
+\usepackage{physics}
 % Библиография и ссылки
-\usepackage{cite} % поддержка цитирования
-\usepackage{hyperref} % создание гиперссылок
+%\usepackage[square,numbers]{natbib} % поддержка цитирования
+\usepackage{url}
+\usepackage[hidelinks]{hyperref} % создание гиперссылок
 
 % Прочее
 \usepackage{color} % работа с цветом
@@ -66,8 +67,14 @@ times, % use Times font as main
 % Установка стилей страницы и главы
 \pagestyle{footcenter}
 \chapterpagestyle{footcenter}
-\usepackage{gnuplottex}
+%\usepackage{gnuplottex}
 
 
 \usepackage{tikz}
+\usepackage{subcaption}
+\usepackage{pgfplots}
+\usepgfplotslibrary{
+	groupplots,
+}
 
+\usepackage{adjustbox}

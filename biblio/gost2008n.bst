@@ -597,7 +597,7 @@ if$}
 
 FUNCTION {bbl.url}
 { curlanguage "english" =
-   {"Access mode"}
+   {""}
    { curlanguage "ukrainian" =
       { "{\CYRR\cyre\cyrzh\cyri\cyrm\ \cyrd\cyro\cyrs\cyrt\cyru\cyrp\cyru}" }
       { curlanguage "russian" =
