@@ -194,6 +194,16 @@ Limits on dark matter annihilation in the sun using the antares neutrino
 \newblock Vol. 321. \BibDash
 \newblock P.~571.
 
+\bibitem{French_2022}
+\selectlanguageifdefined{english}
+\BibEmph{French~G.~M., Sher~M.} Monoenergetic neutrinos from {WIMP}
+  annihilation in jupiter~//
+  \href{http://dx.doi.org/10.1103/physrevd.106.115037}{\BibEmph{Physical Review
+  D}}. \BibDash
+\newblock 2022 \BibDash dec. \BibDash
+\newblock Vol. 106. No.~11. \BibDash
+\newblock : \BibUrl{https://doi.org/10.1103/physrevd.106.115037}.
+
 \bibitem{PhysRevD.64.043502}
 \selectlanguageifdefined{english}
 \BibEmph{Smith~D., Weiner~N.} Inelastic dark matter~//

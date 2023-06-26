@@ -11,46 +11,45 @@ Repeated entry---line 967 of file biblio/bibliography.bib
  : @article{Blennow_2018
  :                      ,
 I'm skipping whatever remains of this entry
-Warning--I didn't find a database entry for "10.1103/physrevd.106.115037"
-You've used 27 entries,
+You've used 28 entries,
             4657 wiz_defined-function locations,
-            1559 strings with 30822 characters,
-and the built_in function-call counts, 11294 in all, are:
-= -- 1355
-> -- 327
-< -- 59
-+ -- 103
-- -- 76
-* -- 825
-:= -- 1104
-add.period$ -- 136
-call.type$ -- 27
-change.case$ -- 26
+            1565 strings with 30978 characters,
+and the built_in function-call counts, 11618 in all, are:
+= -- 1394
+> -- 336
+< -- 62
++ -- 106
+- -- 78
+* -- 855
+:= -- 1134
+add.period$ -- 141
+call.type$ -- 28
+change.case$ -- 27
 chr.to.int$ -- 0
-cite$ -- 27
-duplicate$ -- 580
-empty$ -- 1152
-format.name$ -- 76
-if$ -- 2982
+cite$ -- 28
+duplicate$ -- 598
+empty$ -- 1189
+format.name$ -- 78
+if$ -- 3067
 int.to.chr$ -- 0
-int.to.str$ -- 27
+int.to.str$ -- 28
 missing$ -- 0
-newline$ -- 213
-num.names$ -- 73
-pop$ -- 105
+newline$ -- 220
+num.names$ -- 76
+pop$ -- 109
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 509
+skip$ -- 517
 stack$ -- 0
 substring$ -- 402
-swap$ -- 497
-text.length$ -- 36
+swap$ -- 511
+text.length$ -- 38
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 0
-while$ -- 63
-width$ -- 29
-write$ -- 484
+while$ -- 64
+width$ -- 30
+write$ -- 501
 (There was 1 error message)
