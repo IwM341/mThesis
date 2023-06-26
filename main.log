@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.1.24)  26 JUN 2023 23:29
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.1.24)  27 JUN 2023 00:20
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -1362,11 +1362,7 @@ Overfull \hbox (1.88326pt too wide) in paragraph at lines 47--48
  )$\T2A/ftm/b/n/14.4 . Вол^^?но^^?вые функ^^?
  []
 
-[8] [9] [10] [11] [12] [13]
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[14] [15]) (chapters/chapter_2.tex [16]
+[8] [9] [10] [11] [12] [13] [14] [15]) (chapters/chapter_2.tex [16]
 LaTeX Font Info:    Calculating math sizes for size <29.86> on input line 26.
 
 
@@ -1524,7 +1520,7 @@ Missing character: There is no Г in font cmr12!
 Missing character: There is no э in font cmr12!
 Missing character: There is no В in font cmr12!
 
-Package caption Warning: \label without proper reference on input line 336.
+Package caption Warning: \label without proper reference on input line 338.
 See the caption package documentation for explanation.
 
 
@@ -2013,13 +2009,19 @@ LaTeX Warning: There were undefined references.
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: B5DC0198B721EE8A43EBCD483D265449;4544.
+
+Package rerunfilecheck Warning: File `main.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `main.out':
+(rerunfilecheck)             Before: 929E9A465299A5EBE0E5571D540786D2;4656
+(rerunfilecheck)             After:  DE3D9E48465EA2BBE247B967C95D0633;4688.
  ) 
 Here is how much of TeX's memory you used:
  40827 strings out of 475385
  898664 string characters out of 2790968
- 1934016 words of memory out of 3000000
+ 1934034 words of memory out of 3000000
  61198 multiletter control sequences out of 15000+600000
  485182 words of font info for 76 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -2036,9 +2038,9 @@ oft/MikTex/fonts/type1/public/amsfonts/cm/cmr12.pfb><D:/Soft/MikTex/fonts/type1
 y10.pfb><D:/Soft/MikTex/fonts/type1/public/amsfonts/cm/cmsy7.pfb><D:/Soft/MikTe
 x/fonts/type1/public/amsfonts/cm/cmtt12.pfb><D:/Soft/MikTex/fonts/type1/public/
 amsfonts/symbols/msbm10.pfb>
-Output written on main.pdf (41 pages, 787109 bytes).
+Output written on main.pdf (41 pages, 787709 bytes).
 PDF statistics:
- 879 PDF objects out of 1000 (max. 8388607)
+ 880 PDF objects out of 1000 (max. 8388607)
  192 named destinations out of 1000 (max. 500000)
  257 words of extra memory for PDF output out of 10000 (max. 10000000)
 
