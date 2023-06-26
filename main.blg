@@ -7,50 +7,50 @@ Reallocating 'name_of_file' (item size: 1) to 20 items.
 Reallocating 'wiz_functions' (item size: 4) to 6000 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
 Database file #1: biblio/bibliography.bib
-Repeated entry---line 843 of file biblio/bibliography.bib
- : @article{Aartsen_2017
+Repeated entry---line 967 of file biblio/bibliography.bib
+ : @article{Blennow_2018
  :                      ,
 I'm skipping whatever remains of this entry
 Warning--I didn't find a database entry for "10.1103/physrevd.106.115037"
-You've used 24 entries,
+You've used 27 entries,
             4657 wiz_defined-function locations,
-            1534 strings with 25307 characters,
-and the built_in function-call counts, 9789 in all, are:
-= -- 1171
-> -- 280
-< -- 50
-+ -- 89
-- -- 65
-* -- 710
-:= -- 958
-add.period$ -- 120
-call.type$ -- 24
-change.case$ -- 23
+            1559 strings with 30822 characters,
+and the built_in function-call counts, 11294 in all, are:
+= -- 1355
+> -- 327
+< -- 59
++ -- 103
+- -- 76
+* -- 825
+:= -- 1104
+add.period$ -- 136
+call.type$ -- 27
+change.case$ -- 26
 chr.to.int$ -- 0
-cite$ -- 24
-duplicate$ -- 506
-empty$ -- 1011
-format.name$ -- 65
-if$ -- 2585
+cite$ -- 27
+duplicate$ -- 580
+empty$ -- 1152
+format.name$ -- 76
+if$ -- 2982
 int.to.chr$ -- 0
-int.to.str$ -- 24
+int.to.str$ -- 27
 missing$ -- 0
-newline$ -- 189
-num.names$ -- 64
-pop$ -- 96
+newline$ -- 213
+num.names$ -- 73
+pop$ -- 105
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 435
+skip$ -- 509
 stack$ -- 0
-substring$ -- 336
-swap$ -- 429
-text.length$ -- 30
+substring$ -- 402
+swap$ -- 497
+text.length$ -- 36
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 0
-while$ -- 54
-width$ -- 26
-write$ -- 424
+while$ -- 63
+width$ -- 29
+write$ -- 484
 (There was 1 error message)

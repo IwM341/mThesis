@@ -148,13 +148,13 @@ Three-year annual modulation search with {COSINE}-100~/ G.~Adhikari,
 
 \bibitem{Aartsen_2017}
 \selectlanguageifdefined{english}
-\BibEmph{Aartsen~M.~G., et~al.~M.~A.} Search for annihilating dark matter in
-  the sun with 3~years of {IceCube} data~//
+Search for annihilating dark matter in the sun with 3~years of {IceCube} data~/
+  M.~G.~Aartsen, M.~Ackermann, J.~Adams et~al.~//
   \href{http://dx.doi.org/10.1140/epjc/s10052-017-4689-9}{\BibEmph{The European
   Physical Journal C}}. \BibDash
 \newblock 2017 \BibDash mar. \BibDash
 \newblock Vol.~77. No.~3. \BibDash
-\newblock : \BibUrl{https://doi.org/10.1140/epjc/s10052-017-4689-9}.
+\newblock : \BibUrl{https://doi.org/0.1140/epjc/s10052-017-4689-9}.
 
 \bibitem{kamiokandecollaboration2015search}
 \selectlanguageifdefined{english}
@@ -237,6 +237,28 @@ The effective field theory of dark matter direct detection~/
 \newblock P.~012--012. \BibDash
 \newblock : \BibUrl{https://doi.org/10.1088/1475-7516/2007/04/012}.
 
+\bibitem{Vinyoles_2017}
+\selectlanguageifdefined{english}
+A new generation of standard solar models~/ N{\'{u}}ria~Vinyoles,
+  Aldo~M.~Serenelli, Francesco~L.~Villante et~al.~//
+  \href{http://dx.doi.org/10.3847/1538-4357/835/2/202}{\BibEmph{The
+  Astrophysical Journal}}. \BibDash
+\newblock 2017 \BibDash jan. \BibDash
+\newblock Vol. 835. No.~2. \BibDash
+\newblock P.~202. \BibDash
+\newblock : \BibUrl{https://doi.org/10.3847/1538-4357/835/2/202}.
+
+\bibitem{DZIEWONSKI1981297}
+\selectlanguageifdefined{english}
+\BibEmph{Dziewonski~A.~M., Anderson~D.~L.} Preliminary reference earth model~//
+  \href{http://dx.doi.org/https://doi.org/10.1016/0031-9201(81)90046-7}{\BibEmph{Physics
+  of the Earth and Planetary Interiors}}. \BibDash
+\newblock 1981. \BibDash
+\newblock Vol.~25. No.~4. \BibDash
+\newblock P.~297--356. \BibDash
+\newblock :
+  \BibUrl{https://www.sciencedirect.com/science/article/pii/0031920181900467}.
+
 \bibitem{CIRELLI2008338}
 \selectlanguageifdefined{english}
 Erratum to: “spectra of neutrinos from dark matter annihilations” [nucl.
@@ -249,5 +271,16 @@ Erratum to: “spectra of neutrinos from dark matter annihilations” [nucl.
 \newblock P.~338--344. \BibDash
 \newblock :
   \BibUrl{https://www.sciencedirect.com/science/article/pii/S0550321307007596}.
+
+\bibitem{Blennow_2016}
+\selectlanguageifdefined{english}
+\BibEmph{Blennow~M., Clementz~S., Herrero-Garcia~J.} Pinning down inelastic
+  dark matter in the sun and in direct detection~//
+  \href{http://dx.doi.org/10.1088/1475-7516/2016/04/004}{\BibEmph{Journal of
+  Cosmology and Astroparticle Physics}}. \BibDash
+\newblock 2016 \BibDash apr. \BibDash
+\newblock Vol. 2016. No.~04. \BibDash
+\newblock P.~004--004. \BibDash
+\newblock : \BibUrl{https://doi.org/10.1088/1475-7516/2016/04/004}.
 
 \end{thebibliography}
