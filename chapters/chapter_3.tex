@@ -263,8 +263,8 @@
 				legend style={at ={(0.9,0.9)}},
 				ymode = log,
 				xlabel = {$\delta, \text{кэВ}$},
-				ylabel = {$\frac{\Gamma_{0}}{C}$},
-				title = {$\frac{\Gamma_{0}}{C}, m_{\chi} = 100 ГэВ$}
+				ylabel = {$\frac{\Gamma_{0}}{C_0}$},
+				title = {$\frac{\Gamma_{0}}{C_0}, m_{\chi} = 100 ГэВ$}
 				]
 				\addplot [color = red, thick] table[x index=0,y index=5] 
 				{data/cons/C_A_100GeV.txt};
@@ -277,7 +277,7 @@
 				legend style={at ={(0.9,0.9)}},
 				ymode = log,
 				ytick pos=right,
-				title = {$\frac{\Gamma_{0}}{C}, m_{\chi} = 1000 ГэВ$},
+				title = {$\frac{\Gamma_{0}}{C_0}, m_{\chi} = 1000 ГэВ$},
 				xlabel = {$\delta, \text{кэВ}$}
 				]
 				\addplot [color = red, thick] table[x index=0,y index=5] 
@@ -288,7 +288,7 @@
 					$n_{\chi^*}/n_{\chi}= 1$}
 			\end{groupplot}
 		\end{tikzpicture}
-		\caption{Отношение аннигиляции к захвату слева $m_{\chi} = 100 \, \text{ГэВ}$, справа ---  $m_{\chi} = 1000 \, \text{ГэВ}$}
+		\caption{Отношение аннигиляции к захвату слева $m_{\chi} = 100 \, \text{ГэВ}$, справа ---  $m_{\chi} = 1000 \, \text{ГэВ}$ при сечении рассеяния на протоне $\sigma_{0} = 10^{-42} \,\text{см}^2$}
 		\label{plot:A_C}
 	\end{center}	
 \end{figure}
@@ -298,37 +298,43 @@
 	\Gamma_{ann} = C \cdot \tanh^2{\sqrt{\cfrac{\Gamma_t}{C}}} = 
 	\cfrac{\sigma_{\chi p}}{\sigma_0} \cdot {C_0} 
 	\tanh^2{ \sqrt{\cfrac{\Gamma_0}{C_0} \cfrac{\sigma_{\chi p}}{\sigma_0}}}
+	\label{eq:Gamma_ann}
 \end{equation}
-где $C_0$ и $\Gamma_0$ --- скорость захвата и темп аннигиляции при сечении рассеяния на протоне, равное $\sigma_{0}$. Исходя из ограничений IceCube на число аннигиляций, получим ограничение на сечение $\sigma_{\chi p}$. Для этого будем использовать ограничения по следующим каналам аннигиляции: $\tau^+\tau^-$ и $W^+W^-$. Приведем результаты для масс 100 и 1000 ГэВ в предельных случаях, когда в гало нет тяжелой фракции темной материи ($n_{\chi^*}/n_{\chi}= 0$) и когда она распределена поровну ($n_{\chi^*}/n_{\chi}= 1$)
+где $C_0$ и $\Gamma_0$ --- скорость захвата и темп аннигиляции на момент времени $T_{\odot}$, вычисленные в результате решения линейного уравнения эволюции при сечении рассеяния на протоне, равное $\sigma_{0}$ (мы брали $10^{-42}\,\text{см}^2$). Исходя из ограничений IceCube \cite{Aartsen_2017} на число аннигиляций $\Gamma_{ann}$, мы получим ограничение на сечение $\sigma_{\chi p}$, обращая \ref{eq:Gamma_ann}. Для этого будем использовать ограничения на $\Gamma_{ann}$, полученную одельно для каналов аннигиляции: $\tau^+\tau^-$ и $W^+W^-$. Приведем результаты для масс 100 и 1000 ГэВ в предельных случаях, когда в гало нет тяжелой фракции темной материи ($n_{\chi^*}/n_{\chi}= 0$) и когда она распределена поровну ($n_{\chi^*}/n_{\chi}= 1$)
 
 \begin{figure}[!h]
 	\begin{center}
 		\begin{tikzpicture}
 			\begin{axis}[
-				xscale = 1.7,
+				scale = 1.7,
 				ymode = log,
 				%ymin = 1e-1,
 				xlabel = {$\delta, \text{кэВ}$},
 				%xmax = 500,
 				%xlabel shift = {(10,-10)},
 				%xtick distance=100,
-				title = {$\sigma_{\chi p}, m_{\chi} = 100 \text{ГэВ}$},
-				title style={at = {(0.36,1.0)}},
+				title = {$\sigma_{\chi p}, m_{\chi} = 100 \,\text{ГэВ}$},
+				%title style={at = {(0.36,1.0)}},
 				ylabel = {$\sigma_{\chi p}, \text{см}^2$},
-				legend style={at = {(0.3,0.94)}}
+				ylabel style = {yshift = 20pt}, 
+				legend style={at = {(0.5,0.94)}}
 				]
 				
 				\addplot [color = red, thick] table [x index=0,y index=6] {data/cons/tau_100GeV.txt};
 				\addplot [color = orange, thick] table [x index=0,y index=5] {data/cons/W_100GeV.txt};
 				\addplot [color = blue, thick] table [x index=0,y index=5] {data/cons/tau_100GeV.txt};
 				\addplot [color = green, thick] table [x index=0,y index=6] {data/cons/W_100GeV.txt};
+				\addplot [dashed, color = purple,thick,samples=2] coordinates  {(0,0.8*1e-43) (300,0.8*1e-43)};
+					\addplot [dashed, color = gray,thick,samples=2] coordinates  {(0,3*1e-43) (300,3*1e-43)};
 				\legend{{$n_{\chi^*}/n_{\chi}= 0, \tau^+\tau^-$},
 					{$n_{\chi^*}/n_{\chi}= 0, W^+W^-$},
 					{$n_{\chi^*}/n_{\chi}= 1, \tau^+\tau^-$},
-					{$n_{\chi^*}/n_{\chi}= 1, W^+W^-$}}
+					{$n_{\chi^*}/n_{\chi}= 1, W^+W^-$},
+					 {Упругое, $\tau^+\tau^-$},
+					 {Упругое, $W^+W^-$}}
 			\end{axis}
 		\end{tikzpicture}		
-		\caption{Ограничения на сечение рассеяния с протоном $\sigma_{\chi p} $ при $m_{\chi} = 100 \, \text{ГэВ}$}
+		\caption{Ограничения на сечение рассеяния с протоном $\sigma_{\chi p} $ при $m_{\chi} = 100 \, \text{ГэВ}$, пунктирными линиями обозначенны ограничения на упругое сечение для каналов $\tau^+\tau^-$ (серый) и $W^+W^-$ (фиолетовый) из \cite{Aartsen_2017}} 
 		\label{plot:constrains_100GeV}
 	\end{center}	
 \end{figure}
@@ -336,30 +342,35 @@
 	\begin{center}
 		\begin{tikzpicture}
 			\begin{axis}[
-				xscale = 1.7,
+				scale = 1.7,
 				ymode = log,
-				%ymin = 1e-1,
-				xlabel = {$\delta, \text{кэВ}$},
+				ymin = 1e-44,
+				xlabel = {$\delta, \,\text{кэВ}$},
 				xmax = 350,
 				%xlabel shift = {(10,-10)},
 				%xtick distance=100,
 				title = {$\sigma_{\chi p}, m_{\chi} = 1000 \, \text{ГэВ}$},
 				title style={at = {(0.36,1.0)}},
 				ylabel = {$\sigma_{\chi p}, \text{см}^2$},
-				legend style={at = {(0.6,0.46)}}
+				ylabel style = {yshift = 20pt}, 
+				legend style={at = {(0.5,0.94)}}
 				]
 				
 				\addplot [color = red, thick] table [x index=0,y index=6] {data/cons/tau_1000GeV.txt};
 				\addplot [color = orange, thick] table [x index=0,y index=6] {data/cons/W_1000GeV.txt};
 				\addplot [color = blue, thick] table [x index=0,y index=5] {data/cons/tau_1000GeV.txt};
 				\addplot [color = green, thick] table [x index=0,y index=5] {data/cons/W_1000GeV.txt};
+				\addplot [dashed, color = purple,thick,samples=2] coordinates  {(0,2*1e-44) (300,2*1e-44)};
+				\addplot [dashed, color = gray,thick,samples=2] coordinates  {(0,7*1e-44) (300,7*1e-44)};
 				\legend{{$n_{\chi^*}/n_{\chi}= 0, \tau^+\tau^-$},
 					{$n_{\chi^*}/n_{\chi}= 0, W^+W^-$},
 					{$n_{\chi^*}/n_{\chi}= 1, \tau^+\tau^-$},
-					{$n_{\chi^*}/n_{\chi}= 1, W^+W^-$}}
+					{$n_{\chi^*}/n_{\chi}= 1, W^+W^-$},
+					{Упругое, $\tau^+\tau^-$},
+					{Упругое, $W^+W^-$}}
 			\end{axis}
 		\end{tikzpicture}
-		\caption{Ограничения на сечение рассеяния с протоном $\sigma_{\chi p} $ при $m_{\chi} = 1000 \, \text{ГэВ}$}
+		\caption{Ограничения на сечение рассеяния с протоном $\sigma_{\chi p} $ при $m_{\chi} = 1000 \, \text{ГэВ}$, пунктирными линиями обозначенны ограничения на упругое сечение для каналов $\tau^+\tau^-$ (серый) и $W^+W^-$ (фиолетовый) из \cite{Aartsen_2017}}
 		\label{plot:constrains_1000GeV}
 	\end{center}	
 \end{figure}

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.1.24)  27 JUN 2023 09:30
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.1.24)  27 JUN 2023 10:31
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -1643,15 +1643,19 @@ PGFPlots: reading {data/cons/tau_1000GeV.txt}
 PGFPlots: reading {data/cons/W_1000GeV.txt}
 PGFPlots: reading {data/cons/tau_1000GeV.txt}
 PGFPlots: reading {data/cons/W_1000GeV.txt}
-) (chapters/conclusion.tex [38]) (chapters/bibliography.tex [39
 
-] (main.bbl<<ot1tt.cmap>> [40] [41]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+) (chapters/conclusion.tex [38] [39]) (chapters/bibliography.tex [40
+
+] (main.bbl<<ot1tt.cmap>> [41] [42]
 Underfull \hbox (badness 3333) in paragraph at lines 252--260
 []\OT1/cmr/m/n/14.4 A new gen-er-a-tion of stan-dard so-lar mod-els / N^^Suria 
 Viny-oles,
  []
 
-)) [42] (main.aux)
+)) [43] (main.aux)
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 4.98pt have occurred.
@@ -1669,10 +1673,10 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 8B66B0F347B0A6D96758EAEAAD9410C0;5728.
  ) 
 Here is how much of TeX's memory you used:
- 40829 strings out of 475385
- 898689 string characters out of 2790968
- 1936247 words of memory out of 3000000
- 61199 multiletter control sequences out of 15000+600000
+ 40878 strings out of 475385
+ 899713 string characters out of 2790968
+ 1936851 words of memory out of 3000000
+ 61247 multiletter control sequences out of 15000+600000
  485182 words of font info for 76 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  89i,20n,83p,1959b,2655s stack positions out of 10000i,1000n,20000p,200000b,80000s
@@ -1688,9 +1692,9 @@ oft/MikTex/fonts/type1/public/amsfonts/cm/cmr12.pfb><D:/Soft/MikTex/fonts/type1
 y10.pfb><D:/Soft/MikTex/fonts/type1/public/amsfonts/cm/cmsy7.pfb><D:/Soft/MikTe
 x/fonts/type1/public/amsfonts/cm/cmtt12.pfb><D:/Soft/MikTex/fonts/type1/public/
 amsfonts/symbols/msbm10.pfb>
-Output written on main.pdf (41 pages, 792448 bytes).
+Output written on main.pdf (42 pages, 795619 bytes).
 PDF statistics:
- 895 PDF objects out of 1000 (max. 8388607)
- 193 named destinations out of 1000 (max. 500000)
+ 905 PDF objects out of 1000 (max. 8388607)
+ 194 named destinations out of 1000 (max. 500000)
  257 words of extra memory for PDF output out of 10000 (max. 10000000)
 
