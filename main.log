@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.1.24)  27 JUN 2023 13:38
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.1.24)  27 JUN 2023 13:45
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -1315,14 +1315,60 @@ ick labels; missing features). Consider writing \pgfplotsset{compat=1.18} into
 your preamble.
  on input line 4.
 
-(chapters/introduction.tex
+
+
+pdfTeX warning: pdflatex.exe (file ./title_page/Title.pdf): PDF inclusion: foun
+d PDF version <1.7>, but at most version <1.5> allowed
+<title_page/Title.pdf, id=86, 597.50829pt x 845.0471pt>
+File: title_page/Title.pdf Graphic file (type pdf)
+<use title_page/Title.pdf>
+Package pdftex.def Info: title_page/Title.pdf  used on input line 7.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+
+
+pdfTeX warning: pdflatex.exe (file ./title_page/Title.pdf): PDF inclusion: foun
+d PDF version <1.7>, but at most version <1.5> allowed
+File: title_page/Title.pdf Graphic file (type pdf)
+<use title_page/Title.pdf>
+Package pdftex.def Info: title_page/Title.pdf  used on input line 7.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+
+
+pdfTeX warning: pdflatex.exe (file ./title_page/Title.pdf): PDF inclusion: foun
+d PDF version <1.7>, but at most version <1.5> allowed
+
+
+pdfTeX warning: pdflatex.exe (file ./title_page/Title.pdf): PDF inclusion: foun
+d PDF version <1.7>, but at most version <1.5> allowed
+<title_page/Title.pdf, id=89, page=1, 597.50829pt x 845.0471pt>
+File: title_page/Title.pdf Graphic file (type pdf)
+<use title_page/Title.pdf, page 1>
+Package pdftex.def Info: title_page/Title.pdf , page1 used on input line 7.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+File: title_page/Title.pdf Graphic file (type pdf)
+<use title_page/Title.pdf, page 1>
+Package pdftex.def Info: title_page/Title.pdf , page1 used on input line 7.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: title_page/Title.pdf Graphic file (type pdf)
+<use title_page/Title.pdf, page 1>
+Package pdftex.def Info: title_page/Title.pdf , page1 used on input line 7.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: title_page/Title.pdf Graphic file (type pdf)
+<use title_page/Title.pdf, page 1>
+Package pdftex.def Info: title_page/Title.pdf , page1 used on input line 7.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: title_page/Title.pdf Graphic file (type pdf)
+<use title_page/Title.pdf, page 1>
+Package pdftex.def Info: title_page/Title.pdf , page1 used on input line 7.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+[1
+
+ <./title_page/Title.pdf>] (chapters/introduction.tex
 
 LaTeX Font Warning: Font shape `T2A/ftm/b/n' undefined
 (Font)              using `T2A/ftm/m/n' instead on input line 3.
 
-[2
-
-{C:/Users/MainUser/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+[2{C:/Users/MainUser/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
 (main.toc
 LaTeX Font Info:    Trying to load font information for OT1+ftm on input line 1
 .
@@ -1360,7 +1406,7 @@ Overfull \hbox (24.91829pt too wide) in paragraph at lines 51--52
 
 pdfTeX warning: pdflatex.exe (file ./images/SK_graphs.pdf): PDF inclusion: foun
 d PDF version <1.7>, but at most version <1.5> allowed
-<images/SK_graphs.pdf, id=171, 496.69464pt x 194.47354pt>
+<images/SK_graphs.pdf, id=202, 496.69464pt x 194.47354pt>
 File: images/SK_graphs.pdf Graphic file (type pdf)
 <use images/SK_graphs.pdf>
 Package pdftex.def Info: images/SK_graphs.pdf  used on input line 57.
@@ -1448,7 +1494,7 @@ $\OML/cmm/m/it/14.4 x[]$
  []
 
 PGFPlots: reading {data/solar_model.dat}
-<data/grid/grid-30-30.png, id=357, 1385.175pt x 762.59906pt>
+<data/grid/grid-30-30.png, id=388, 1385.175pt x 762.59906pt>
 File: data/grid/grid-30-30.png Graphic file (type png)
 <use data/grid/grid-30-30.png>
 Package pdftex.def Info: data/grid/grid-30-30.png  used on input line 302.
@@ -1508,12 +1554,12 @@ PGFPlots: reading {data/_earth_sun_20GeV.txt}
 PGFPlots: reading {data/_earth_sun_100GeV.txt}
 PGFPlots: reading {data/_earth_sun_100GeV.txt}
  [32]
-<data/CL_INIT_100_100_sun.png, id=466, 328.22626pt x 268.75406pt>
+<data/CL_INIT_100_100_sun.png, id=497, 328.22626pt x 268.75406pt>
 File: data/CL_INIT_100_100_sun.png Graphic file (type png)
 <use data/CL_INIT_100_100_sun.png>
 Package pdftex.def Info: data/CL_INIT_100_100_sun.png  used on input line 100.
 (pdftex.def)             Requested size: 249.7572pt x 204.50536pt.
-<data/CH_INIT_100_100_sun.png, id=467, 285.31593pt x 268.75406pt>
+<data/CH_INIT_100_100_sun.png, id=498, 285.31593pt x 268.75406pt>
 File: data/CH_INIT_100_100_sun.png Graphic file (type png)
 <use data/CH_INIT_100_100_sun.png>
 Package pdftex.def Info: data/CH_INIT_100_100_sun.png  used on input line 101.
@@ -1528,12 +1574,12 @@ T2A/ftm/b/n/14.4 ,
  []
 
 [33 <./data/CL_INIT_100_100_sun.png> <./data/CH_INIT_100_100_sun.png>]
-<data/L-.png, id=479, 328.22626pt x 268.75406pt>
+<data/L-.png, id=510, 328.22626pt x 268.75406pt>
 File: data/L-.png Graphic file (type png)
 <use data/L-.png>
 Package pdftex.def Info: data/L-.png  used on input line 141.
 (pdftex.def)             Requested size: 255.86055pt x 209.50429pt.
-<data/H-.png, id=480, 273.27094pt x 268.75406pt>
+<data/H-.png, id=511, 273.27094pt x 268.75406pt>
 File: data/H-.png Graphic file (type png)
 <use data/H-.png>
 Package pdftex.def Info: data/H-.png  used on input line 142.
@@ -1545,32 +1591,32 @@ Overfull \hbox (9.39816pt too wide) in paragraph at lines 153--154
 ^?нах $\OT1/cmr/m/n/14.4 10[]\OML/cmm/m/it/14.4 T[]$\T2A/ftm/b/n/14.4 ,
  []
 
-<data/CL_1e-6_100_100.png, id=482, 328.22626pt x 268.75406pt>
+<data/CL_1e-6_100_100.png, id=513, 328.22626pt x 268.75406pt>
 File: data/CL_1e-6_100_100.png Graphic file (type png)
 <use data/CL_1e-6_100_100.png>
 Package pdftex.def Info: data/CL_1e-6_100_100.png  used on input line 159.
 (pdftex.def)             Requested size: 253.51091pt x 207.57689pt.
-<data/CH_1e-6_100_100.png, id=483, 280.04625pt x 268.75406pt>
+<data/CH_1e-6_100_100.png, id=514, 280.04625pt x 268.75406pt>
 File: data/CH_1e-6_100_100.png Graphic file (type png)
 <use data/CH_1e-6_100_100.png>
 Package pdftex.def Info: data/CH_1e-6_100_100.png  used on input line 160.
 (pdftex.def)             Requested size: 215.95956pt x 207.26112pt.
-<data/CL_4_100_100.png, id=484, 328.22626pt x 233.37187pt>
+<data/CL_4_100_100.png, id=515, 328.22626pt x 233.37187pt>
 File: data/CL_4_100_100.png Graphic file (type png)
 <use data/CL_4_100_100.png>
 Package pdftex.def Info: data/CL_4_100_100.png  used on input line 165.
 (pdftex.def)             Requested size: 253.51091pt x 180.24884pt.
-<data/CH_4_100_100.png, id=485, 283.81032pt x 233.37187pt>
+<data/CH_4_100_100.png, id=516, 283.81032pt x 233.37187pt>
 File: data/CH_4_100_100.png Graphic file (type png)
 <use data/CH_4_100_100.png>
 Package pdftex.def Info: data/CH_4_100_100.png  used on input line 166.
 (pdftex.def)             Requested size: 215.95956pt x 177.58524pt.
-<data/L_1.png, id=486, 328.22626pt x 268.75406pt>
+<data/L_1.png, id=517, 328.22626pt x 268.75406pt>
 File: data/L_1.png Graphic file (type png)
 <use data/L_1.png>
 Package pdftex.def Info: data/L_1.png  used on input line 171.
 (pdftex.def)             Requested size: 253.51091pt x 207.57689pt.
-<data/H_1.png, id=487, 277.78781pt x 268.75406pt>
+<data/H_1.png, id=518, 277.78781pt x 268.75406pt>
 File: data/H_1.png Graphic file (type png)
 <use data/H_1.png>
 Package pdftex.def Info: data/H_1.png  used on input line 172.
@@ -1656,10 +1702,10 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 8B66B0F347B0A6D96758EAEAAD9410C0;5728.
  ) 
 Here is how much of TeX's memory you used:
- 40940 strings out of 475385
- 900734 string characters out of 2790968
- 1939814 words of memory out of 3000000
- 61304 multiletter control sequences out of 15000+600000
+ 40954 strings out of 475385
+ 901153 string characters out of 2790968
+ 1939941 words of memory out of 3000000
+ 61315 multiletter control sequences out of 15000+600000
  485182 words of font info for 76 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  89i,20n,83p,2096b,2655s stack positions out of 10000i,1000n,20000p,200000b,80000s
@@ -1675,9 +1721,9 @@ oft/MikTex/fonts/type1/public/amsfonts/cm/cmr12.pfb><D:/Soft/MikTex/fonts/type1
 y10.pfb><D:/Soft/MikTex/fonts/type1/public/amsfonts/cm/cmsy7.pfb><D:/Soft/MikTe
 x/fonts/type1/public/amsfonts/cm/cmtt12.pfb><D:/Soft/MikTex/fonts/type1/public/
 amsfonts/symbols/msbm10.pfb>
-Output written on main.pdf (42 pages, 796477 bytes).
+Output written on main.pdf (43 pages, 964273 bytes).
 PDF statistics:
- 907 PDF objects out of 1000 (max. 8388607)
- 195 named destinations out of 1000 (max. 500000)
- 257 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 939 PDF objects out of 1000 (max. 8388607)
+ 196 named destinations out of 1000 (max. 500000)
+ 277 words of extra memory for PDF output out of 10000 (max. 10000000)
 
