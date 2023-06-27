@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.1.24)  27 JUN 2023 01:34
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.1.24)  27 JUN 2023 08:01
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -1524,12 +1524,12 @@ LaTeX Warning: Command \cyrm invalid in math mode on input line 93.
 Missing character: There is no ñ in font cmr12!
 Missing character: There is no ì in font cmr12!
 [32]
-<data/CL_INIT_100_100_sun.png, id=461, 328.22626pt x 268.75406pt>
+<data/CL_INIT_100_100_sun.png, id=463, 328.22626pt x 268.75406pt>
 File: data/CL_INIT_100_100_sun.png Graphic file (type png)
 <use data/CL_INIT_100_100_sun.png>
 Package pdftex.def Info: data/CL_INIT_100_100_sun.png  used on input line 100.
 (pdftex.def)             Requested size: 249.7572pt x 204.50536pt.
-<data/CH_INIT_100_100_sun.png, id=462, 285.31593pt x 268.75406pt>
+<data/CH_INIT_100_100_sun.png, id=464, 285.31593pt x 268.75406pt>
 File: data/CH_INIT_100_100_sun.png Graphic file (type png)
 <use data/CH_INIT_100_100_sun.png>
 Package pdftex.def Info: data/CH_INIT_100_100_sun.png  used on input line 101.
@@ -1614,42 +1614,42 @@ Missing character: There is no ê in font cmr12!
 Missing character: There is no ý in font cmr12!
 Missing character: There is no Â in font cmr12!
 [33 <./data/CL_INIT_100_100_sun.png> <./data/CH_INIT_100_100_sun.png>]
-<data/L-.png, id=474, 328.22626pt x 268.75406pt>
+<data/L-.png, id=476, 328.22626pt x 268.75406pt>
 File: data/L-.png Graphic file (type png)
 <use data/L-.png>
 Package pdftex.def Info: data/L-.png  used on input line 141.
 (pdftex.def)             Requested size: 255.86055pt x 209.50429pt.
-<data/H-.png, id=475, 273.27094pt x 268.75406pt>
+<data/H-.png, id=477, 273.27094pt x 268.75406pt>
 File: data/H-.png Graphic file (type png)
 <use data/H-.png>
 Package pdftex.def Info: data/H-.png  used on input line 142.
 (pdftex.def)             Requested size: 213.60992pt x 210.08252pt.
-<data/CL_1e-6_100_100.png, id=477, 328.22626pt x 268.75406pt>
+<data/CL_1e-6_100_100.png, id=479, 328.22626pt x 268.75406pt>
 File: data/CL_1e-6_100_100.png Graphic file (type png)
 <use data/CL_1e-6_100_100.png>
 Package pdftex.def Info: data/CL_1e-6_100_100.png  used on input line 159.
 (pdftex.def)             Requested size: 253.51091pt x 207.57689pt.
-<data/CH_1e-6_100_100.png, id=478, 280.04625pt x 268.75406pt>
+<data/CH_1e-6_100_100.png, id=480, 280.04625pt x 268.75406pt>
 File: data/CH_1e-6_100_100.png Graphic file (type png)
 <use data/CH_1e-6_100_100.png>
 Package pdftex.def Info: data/CH_1e-6_100_100.png  used on input line 160.
 (pdftex.def)             Requested size: 215.95956pt x 207.26112pt.
-<data/CL_4_100_100.png, id=479, 328.22626pt x 233.37187pt>
+<data/CL_4_100_100.png, id=481, 328.22626pt x 233.37187pt>
 File: data/CL_4_100_100.png Graphic file (type png)
 <use data/CL_4_100_100.png>
 Package pdftex.def Info: data/CL_4_100_100.png  used on input line 165.
 (pdftex.def)             Requested size: 253.51091pt x 180.24884pt.
-<data/CH_4_100_100.png, id=480, 283.81032pt x 233.37187pt>
+<data/CH_4_100_100.png, id=482, 283.81032pt x 233.37187pt>
 File: data/CH_4_100_100.png Graphic file (type png)
 <use data/CH_4_100_100.png>
 Package pdftex.def Info: data/CH_4_100_100.png  used on input line 166.
 (pdftex.def)             Requested size: 215.95956pt x 177.58524pt.
-<data/L_1.png, id=481, 328.22626pt x 268.75406pt>
+<data/L_1.png, id=483, 328.22626pt x 268.75406pt>
 File: data/L_1.png Graphic file (type png)
 <use data/L_1.png>
 Package pdftex.def Info: data/L_1.png  used on input line 171.
 (pdftex.def)             Requested size: 253.51091pt x 207.57689pt.
-<data/H_1.png, id=482, 277.78781pt x 268.75406pt>
+<data/H_1.png, id=484, 277.78781pt x 268.75406pt>
 File: data/H_1.png Graphic file (type png)
 <use data/H_1.png>
 Package pdftex.def Info: data/H_1.png  used on input line 172.
@@ -1706,11 +1706,12 @@ Missing character: There is no Â in font cmr12!
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-PGFPlots: reading {data/C_L_R_ev/out_8_10_n.dat}
-PGFPlots: reading {data/C_L_R_ev/out_8_10_n.dat}
-PGFPlots: reading {data/C_L_R_ev/out_8_10_n.dat}
-PGFPlots: reading {data/C_L_R_ev/out_8_10_n.dat}
 [34 <./data/L-.png> <./data/H-.png>]
+PGFPlots: reading {data/C_L_R_ev/out_8_10_n.dat}
+PGFPlots: reading {data/C_L_R_ev/out_8_10_n.dat}
+PGFPlots: reading {data/C_L_R_ev/out_8_10_n.dat}
+PGFPlots: reading {data/C_L_R_ev/out_8_10_n.dat}
+
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
@@ -1863,7 +1864,7 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 Here is how much of TeX's memory you used:
  40828 strings out of 475385
  898675 string characters out of 2790968
- 1937044 words of memory out of 3000000
+ 1937060 words of memory out of 3000000
  61198 multiletter control sequences out of 15000+600000
  485182 words of font info for 76 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1880,9 +1881,9 @@ oft/MikTex/fonts/type1/public/amsfonts/cm/cmr12.pfb><D:/Soft/MikTex/fonts/type1
 y10.pfb><D:/Soft/MikTex/fonts/type1/public/amsfonts/cm/cmsy7.pfb><D:/Soft/MikTe
 x/fonts/type1/public/amsfonts/cm/cmtt12.pfb><D:/Soft/MikTex/fonts/type1/public/
 amsfonts/symbols/msbm10.pfb>
-Output written on main.pdf (41 pages, 791522 bytes).
+Output written on main.pdf (41 pages, 791953 bytes).
 PDF statistics:
- 891 PDF objects out of 1000 (max. 8388607)
+ 893 PDF objects out of 1000 (max. 8388607)
  193 named destinations out of 1000 (max. 500000)
  257 words of extra memory for PDF output out of 10000 (max. 10000000)
 
