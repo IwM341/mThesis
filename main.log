@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.1.24)  27 JUN 2023 10:39
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.1.24)  27 JUN 2023 13:38
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -790,17 +790,25 @@ File: listings.cfg 2020/03/24 1.8d listings configuration
 ))
 Package: listings 2020/03/24 1.8d (Carsten Heinz)
 
+(D:\Soft\MikTex\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count309
+\float@exts=\toks32
+\float@box=\box62
+\@float@everytoks=\toks33
+\@floatcapt=\box63
+)
 (D:\Soft\MikTex\tex/latex/pgf/frontendlayer\tikz.sty
 (D:\Soft\MikTex\tex/latex/pgf/basiclayer\pgf.sty
 (D:\Soft\MikTex\tex/latex/pgf/utilities\pgfrcs.sty
 (D:\Soft\MikTex\tex/generic/pgf/utilities\pgfutil-common.tex
-\pgfutil@everybye=\toks32
+\pgfutil@everybye=\toks34
 \pgfutil@tempdima=\dimen193
 \pgfutil@tempdimb=\dimen194
 
 (D:\Soft\MikTex\tex/generic/pgf/utilities\pgfutil-common-lists.tex))
 (D:\Soft\MikTex\tex/generic/pgf/utilities\pgfutil-latex.def
-\pgfutil@abb=\box62
+\pgfutil@abb=\box64
 )
 (D:\Soft\MikTex\tex/generic/pgf/utilities\pgfrcs.code.tex
 (D:\Soft\MikTex\tex/generic/pgf\pgf.revision.tex)
@@ -814,11 +822,11 @@ Package: pgf 2021/05/15 v3.1.9a (3.1.9a)
 Package: pgfsys 2021/05/15 v3.1.9a (3.1.9a)
 
 (D:\Soft\MikTex\tex/generic/pgf/utilities\pgfkeys.code.tex
-\pgfkeys@pathtoks=\toks33
-\pgfkeys@temptoks=\toks34
+\pgfkeys@pathtoks=\toks35
+\pgfkeys@temptoks=\toks36
 
 (D:\Soft\MikTex\tex/generic/pgf/utilities\pgfkeysfiltered.code.tex
-\pgfkeys@tmptoks=\toks35
+\pgfkeys@tmptoks=\toks37
 ))
 \pgf@x=\dimen195
 \pgf@y=\dimen196
@@ -832,14 +840,14 @@ Package: pgfsys 2021/05/15 v3.1.9a (3.1.9a)
 \pgf@yd=\dimen260
 \w@pgf@writea=\write3
 \r@pgf@reada=\read3
-\c@pgf@counta=\count309
-\c@pgf@countb=\count310
-\c@pgf@countc=\count311
-\c@pgf@countd=\count312
-\t@pgf@toka=\toks36
-\t@pgf@tokb=\toks37
-\t@pgf@tokc=\toks38
-\pgf@sys@id@count=\count313
+\c@pgf@counta=\count310
+\c@pgf@countb=\count311
+\c@pgf@countc=\count312
+\c@pgf@countd=\count313
+\t@pgf@toka=\toks38
+\t@pgf@tokb=\toks39
+\t@pgf@tokc=\toks40
+\pgf@sys@id@count=\count314
 
 (D:\Soft\MikTex\tex/generic/pgf/systemlayer\pgf.cfg
 File: pgf.cfg 2021/05/15 v3.1.9a (3.1.9a)
@@ -854,8 +862,8 @@ File: pgfsys-common-pdf.def 2021/05/15 v3.1.9a (3.1.9a)
 )))
 (D:\Soft\MikTex\tex/generic/pgf/systemlayer\pgfsyssoftpath.code.tex
 File: pgfsyssoftpath.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgfsyssoftpath@smallbuffer@items=\count314
-\pgfsyssoftpath@bigbuffer@items=\count315
+\pgfsyssoftpath@smallbuffer@items=\count315
+\pgfsyssoftpath@bigbuffer@items=\count316
 )
 (D:\Soft\MikTex\tex/generic/pgf/systemlayer\pgfsysprotocol.code.tex
 File: pgfsysprotocol.code.tex 2021/05/15 v3.1.9a (3.1.9a)
@@ -868,11 +876,11 @@ Package: pgfcore 2021/05/15 v3.1.9a (3.1.9a)
 (D:\Soft\MikTex\tex/generic/pgf/math\pgfmathutil.code.tex)
 (D:\Soft\MikTex\tex/generic/pgf/math\pgfmathparser.code.tex
 \pgfmath@dimen=\dimen261
-\pgfmath@count=\count316
-\pgfmath@box=\box63
-\pgfmath@toks=\toks39
-\pgfmath@stack@operand=\toks40
-\pgfmath@stack@operation=\toks41
+\pgfmath@count=\count317
+\pgfmath@box=\box65
+\pgfmath@toks=\toks41
+\pgfmath@stack@operand=\toks42
+\pgfmath@stack@operation=\toks43
 )
 (D:\Soft\MikTex\tex/generic/pgf/math\pgfmathfunctions.code.tex
 (D:\Soft\MikTex\tex/generic/pgf/math\pgfmathfunctions.basic.code.tex)
@@ -884,7 +892,7 @@ Package: pgfcore 2021/05/15 v3.1.9a (3.1.9a)
 (D:\Soft\MikTex\tex/generic/pgf/math\pgfmathfunctions.misc.code.tex)
 (D:\Soft\MikTex\tex/generic/pgf/math\pgfmathfunctions.integerarithmetics.code.t
 ex))) (D:\Soft\MikTex\tex/generic/pgf/math\pgfmathfloat.code.tex
-\c@pgfmathroundto@lastzeros=\count317
+\c@pgfmathroundto@lastzeros=\count318
 ))
 (D:\Soft\MikTex\tex/generic/pgf/math\pgfint.code.tex)
 (D:\Soft\MikTex\tex/generic/pgf/basiclayer\pgfcorepoints.code.tex
@@ -916,10 +924,10 @@ File: pgfcorepathusage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 )
 (D:\Soft\MikTex\tex/generic/pgf/basiclayer\pgfcorescopes.code.tex
 File: pgfcorescopes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgfpic=\box64
-\pgf@hbox=\box65
-\pgf@layerbox@main=\box66
-\pgf@picture@serial@count=\count318
+\pgfpic=\box66
+\pgf@hbox=\box67
+\pgf@layerbox@main=\box68
+\pgf@picture@serial@count=\count319
 )
 (D:\Soft\MikTex\tex/generic/pgf/basiclayer\pgfcoregraphicstate.code.tex
 File: pgfcoregraphicstate.code.tex 2021/05/15 v3.1.9a (3.1.9a)
@@ -947,15 +955,15 @@ File: pgfcorearrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 (D:\Soft\MikTex\tex/generic/pgf/basiclayer\pgfcoreshade.code.tex
 File: pgfcoreshade.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgf@max=\dimen285
-\pgf@sys@shading@range@num=\count319
-\pgf@shadingcount=\count320
+\pgf@sys@shading@range@num=\count320
+\pgf@shadingcount=\count321
 )
 (D:\Soft\MikTex\tex/generic/pgf/basiclayer\pgfcoreimage.code.tex
 File: pgfcoreimage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 
 (D:\Soft\MikTex\tex/generic/pgf/basiclayer\pgfcoreexternal.code.tex
 File: pgfcoreexternal.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgfexternal@startupbox=\box67
+\pgfexternal@startupbox=\box69
 ))
 (D:\Soft\MikTex\tex/generic/pgf/basiclayer\pgfcorelayers.code.tex
 File: pgfcorelayers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
@@ -971,7 +979,7 @@ File: pgfcorerdf.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 )))
 (D:\Soft\MikTex\tex/generic/pgf/modules\pgfmoduleshapes.code.tex
 File: pgfmoduleshapes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgfnodeparttextbox=\box68
+\pgfnodeparttextbox=\box70
 )
 (D:\Soft\MikTex\tex/generic/pgf/modules\pgfmoduleplot.code.tex
 File: pgfmoduleplot.code.tex 2021/05/15 v3.1.9a (3.1.9a)
@@ -995,15 +1003,15 @@ Package: pgffor 2021/05/15 v3.1.9a (3.1.9a)
 (D:\Soft\MikTex\tex/generic/pgf/math\pgfmath.code.tex)
 \pgffor@iter=\dimen288
 \pgffor@skip=\dimen289
-\pgffor@stack=\toks42
-\pgffor@toks=\toks43
+\pgffor@stack=\toks44
+\pgffor@toks=\toks45
 ))
 (D:\Soft\MikTex\tex/generic/pgf/frontendlayer/tikz\tikz.code.tex
 Package: tikz 2021/05/15 v3.1.9a (3.1.9a)
 
 (D:\Soft\MikTex\tex/generic/pgf/libraries\pgflibraryplothandlers.code.tex
 File: pgflibraryplothandlers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgf@plot@mark@count=\count321
+\pgf@plot@mark@count=\count322
 \pgfplotmarksize=\dimen290
 )
 \tikz@lastx=\dimen291
@@ -1014,22 +1022,22 @@ File: pgflibraryplothandlers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \tikz@lastmovetoy=\dimen296
 \tikzleveldistance=\dimen297
 \tikzsiblingdistance=\dimen298
-\tikz@figbox=\box69
-\tikz@figbox@bg=\box70
-\tikz@tempbox=\box71
-\tikz@tempbox@bg=\box72
-\tikztreelevel=\count322
-\tikznumberofchildren=\count323
-\tikznumberofcurrentchild=\count324
-\tikz@fig@count=\count325
+\tikz@figbox=\box71
+\tikz@figbox@bg=\box72
+\tikz@tempbox=\box73
+\tikz@tempbox@bg=\box74
+\tikztreelevel=\count323
+\tikznumberofchildren=\count324
+\tikznumberofcurrentchild=\count325
+\tikz@fig@count=\count326
 
 (D:\Soft\MikTex\tex/generic/pgf/modules\pgfmodulematrix.code.tex
 File: pgfmodulematrix.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgfmatrixcurrentrow=\count326
-\pgfmatrixcurrentcolumn=\count327
-\pgf@matrix@numberofcolumns=\count328
+\pgfmatrixcurrentrow=\count327
+\pgfmatrixcurrentcolumn=\count328
+\pgf@matrix@numberofcolumns=\count329
 )
-\tikz@expandcount=\count329
+\tikz@expandcount=\count330
 
 (D:\Soft\MikTex\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarytopaths
 .code.tex
@@ -1040,12 +1048,12 @@ Package: pgfplots 2021/05/15 v1.18.1 Data Visualization (1.18.1)
 
 (D:\Soft\MikTex\tex/generic/pgfplots\pgfplots.code.tex
 (D:\Soft\MikTex\tex/generic/pgfplots\pgfplotscore.code.tex
-\t@pgfplots@toka=\toks44
-\t@pgfplots@tokb=\toks45
-\t@pgfplots@tokc=\toks46
+\t@pgfplots@toka=\toks46
+\t@pgfplots@tokb=\toks47
+\t@pgfplots@tokc=\toks48
 \pgfplots@tmpa=\dimen299
-\c@pgfplots@coordindex=\count330
-\c@pgfplots@scanlineindex=\count331
+\c@pgfplots@coordindex=\count331
+\c@pgfplots@scanlineindex=\count332
 
 (D:\Soft\MikTex\tex/generic/pgfplots/sys\pgfplotssysgeneric.code.tex))
 (D:\Soft\MikTex\tex/generic/pgfplots/libs\pgfplotslibrary.code.tex)
@@ -1057,12 +1065,12 @@ ex)
 (D:\Soft\MikTex\tex/generic/pgfplots/liststructure\pgfplotsliststructureext.cod
 e.tex)
 (D:\Soft\MikTex\tex/generic/pgfplots/liststructure\pgfplotsarray.code.tex
-\c@pgfplotsarray@tmp=\count332
+\c@pgfplotsarray@tmp=\count333
 )
 (D:\Soft\MikTex\tex/generic/pgfplots/liststructure\pgfplotsmatrix.code.tex)
 (D:\Soft\MikTex\tex/generic/pgfplots/numtable\pgfplotstableshared.code.tex
-\c@pgfplotstable@counta=\count333
-\t@pgfplotstable@a=\toks47
+\c@pgfplotstable@counta=\count334
+\t@pgfplotstable@a=\toks49
 )
 (D:\Soft\MikTex\tex/generic/pgfplots/liststructure\pgfplotsdeque.code.tex)
 (D:\Soft\MikTex\tex/generic/pgfplots/util\pgfplotsbinary.code.tex
@@ -1070,7 +1078,7 @@ e.tex)
 (D:\Soft\MikTex\tex/generic/pgfplots/util\pgfplotsutil.verb.code.tex)
 (D:\Soft\MikTex\tex/generic/pgfplots/libs\pgflibrarypgfplots.surfshading.code.t
 ex
-\c@pgfplotslibrarysurf@no=\count334
+\c@pgfplotslibrarysurf@no=\count335
 
 (D:\Soft\MikTex\tex/generic/pgfplots/sys\pgflibrarypgfplots.surfshading.pgfsys-
 pdftex.def)))
@@ -1094,11 +1102,11 @@ ions.code.tex
 \pgfdecoratedinputsegmentcompleteddistance=\dimen302
 \pgfdecoratedinputsegmentremainingdistance=\dimen303
 \pgf@decorate@distancetomove=\dimen304
-\pgf@decorate@repeatstate=\count335
+\pgf@decorate@repeatstate=\count336
 \pgfdecorationsegmentamplitude=\dimen305
 \pgfdecorationsegmentlength=\dimen306
 )
-\tikz@lib@dec@box=\box73
+\tikz@lib@dec@box=\box75
 )
 (D:\Soft\MikTex\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarydecorat
 ions.pathmorphing.code.tex
@@ -1110,7 +1118,7 @@ ions.pathreplacing.code.tex
 hreplacing.code.tex))
 (D:\Soft\MikTex\tex/generic/pgfplots/libs\tikzlibrarypgfplots.contourlua.code.t
 ex)
-\pgfplots@numplots=\count336
+\pgfplots@numplots=\count337
 \pgfplots@xmin@reg=\dimen307
 \pgfplots@xmax@reg=\dimen308
 \pgfplots@ymin@reg=\dimen309
@@ -1127,9 +1135,9 @@ File: pgflibraryplotmarks.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 )))
 (D:\Soft\MikTex\tex/generic/pgfplots/libs\tikzlibrarypgfplots.groupplots.code.t
 ex
-\pgfplots@group@current@plot=\count337
-\pgfplots@group@current@row=\count338
-\pgfplots@group@current@column=\count339
+\pgfplots@group@current@plot=\count338
+\pgfplots@group@current@row=\count339
+\pgfplots@group@current@column=\count340
 
 (D:\Soft\MikTex\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarycalc.co
 de.tex
@@ -1142,10 +1150,10 @@ Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
 
 (D:\Soft\MikTex\tex/generic/xkeyval\xkeyval.tex
 (D:\Soft\MikTex\tex/generic/xkeyval\xkvutils.tex
-\XKV@toks=\toks48
-\XKV@tempa@toks=\toks49
+\XKV@toks=\toks50
+\XKV@tempa@toks=\toks51
 )
-\XKV@depth=\count340
+\XKV@depth=\count341
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 ))
 (D:\Soft\MikTex\tex/latex/adjustbox\adjcalc.sty
@@ -1157,7 +1165,7 @@ Package: trimclip 2020/08/19 v1.2 Trim and clip general TeX material
 
 (D:\Soft\MikTex\tex/latex/collectbox\collectbox.sty
 Package: collectbox 2022/10/17 v0.4c Collect macro arguments as boxes
-\collectedbox=\box74
+\collectedbox=\box76
 )
 \tc@llx=\dimen313
 \tc@lly=\dimen314
@@ -1179,12 +1187,12 @@ File: tc-pdftex.def 2019/01/04 v2.2 Clipping driver for pdftex
 
 (D:\Soft\MikTex\tex/latex/ifoddpage\ifoddpage.sty
 Package: ifoddpage 2022/10/18 v1.2 Conditionals for odd/even page detection
-\c@checkoddpage=\count341
+\c@checkoddpage=\count342
 )
 (D:\Soft\MikTex\tex/latex/varwidth\varwidth.sty
 Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
-\@vwid@box=\box75
-\sift@deathcycles=\count342
+\@vwid@box=\box77
+\sift@deathcycles=\count343
 \@vwid@loff=\dimen325
 \@vwid@roff=\dimen326
 )) (settings/math_defs.tex)
@@ -1228,22 +1236,23 @@ LaTeX Font Info:    ... okay on input line 4.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 4.
 LaTeX Font Info:    ... okay on input line 4.
 Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
 Package caption Info: hyperref package is loaded.
 Package caption Info: listings package is loaded.
 Package caption Info: End \AtBeginDocument code.
  (D:\Soft\MikTex\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count343
+\scratchcounter=\count344
 \scratchdimen=\dimen327
-\scratchbox=\box76
-\nofMPsegments=\count344
-\nofMParguments=\count345
-\everyMPshowfont=\toks50
-\MPscratchCnt=\count346
+\scratchbox=\box78
+\nofMPsegments=\count345
+\nofMParguments=\count346
+\everyMPshowfont=\toks52
+\MPscratchCnt=\count347
 \MPscratchDim=\dimen328
-\MPnumerator=\count347
-\makeMPintoPDFobject=\count348
-\everyMPtoPDFconversion=\toks51
+\MPnumerator=\count348
+\makeMPintoPDFobject=\count349
+\everyMPtoPDFconversion=\toks53
 )
 LaTeX Info: Redefining \th on input line 4.
 
@@ -1298,7 +1307,7 @@ Package hyperref Info: Link coloring OFF on input line 4.
 \@outlinefile=\write4
 \openout4 = `main.out'.
 
-\c@lstlisting=\count349
+\c@lstlisting=\count350
 
 
 Package pgfplots Warning: running in backwards compatibility mode (unsuitable t
@@ -1341,132 +1350,132 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
 ] [4
 
-] [5]
+]
+Overfull \hbox (24.91829pt too wide) in paragraph at lines 51--52
+\T2A/ftm/b/n/14.4 де^^?тель^^?ству^^?ет о на^^?ли^^?чие тем^^?ной ма^^?те^^?рии
+ [[]]. Од^^?на^^?ко, экс^^?пе^^?ри^^?мент COSINE-100,
+ []
 
-Package caption Warning: \label without proper reference on input line 60.
-See the caption package documentation for explanation.
-
-
-LaTeX Warning: Reference `graph:constr' on page 6 undefined on input line 53.
-
-
+[5]
 
 pdfTeX warning: pdflatex.exe (file ./images/SK_graphs.pdf): PDF inclusion: foun
 d PDF version <1.7>, but at most version <1.5> allowed
-<images/SK_graphs.pdf, id=172, 496.69464pt x 194.47354pt>
+<images/SK_graphs.pdf, id=171, 496.69464pt x 194.47354pt>
 File: images/SK_graphs.pdf Graphic file (type pdf)
 <use images/SK_graphs.pdf>
 Package pdftex.def Info: images/SK_graphs.pdf  used on input line 57.
 (pdftex.def)             Requested size: 447.02104pt x 175.02455pt.
-[6 <./images/SK_graphs.pdf>]) (chapters/chapter_1.tex [7]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[6]) (chapters/chapter_1.tex [7 <./images/SK_graphs.pdf>]
 Overfull \hbox (1.88326pt too wide) in paragraph at lines 47--48
 \T2A/ftm/b/n/14.4 ти эф^^?фек^^?тив^^?ный по^^?тен^^?ци^^?ал вза^^?и^^?мо^^?дей
 ^^?ствия с яд^^?ром $[]\OT1/ftm/m/n/14.4 (\OML/cmm/m/it/14.4 q\OT1/ftm/m/n/14.4
  )$\T2A/ftm/b/n/14.4 . Вол^^?но^^?вые функ^^?
  []
 
-[8] [9] [10] [11] [12] [13]
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[14] [15]) (chapters/chapter_2.tex [16]
-LaTeX Font Info:    Calculating math sizes for size <29.86> on input line 26.
+[8] [9] [10] [11] [12] [13] [14] [15]) (chapters/chapter_2.tex [16]
+LaTeX Font Info:    Calculating math sizes for size <29.86> on input line 28.
 
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <14.93> not available
-(Font)              size <14.4> substituted on input line 26.
+(Font)              size <14.4> substituted on input line 28.
 
 
 LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <29.86> not available
-(Font)              size <24.88> substituted on input line 26.
+(Font)              size <24.88> substituted on input line 28.
 
 
 LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <14.93> not available
-(Font)              size <14.4> substituted on input line 26.
+(Font)              size <14.4> substituted on input line 28.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <29.86> not available
-(Font)              size <24.88> substituted on input line 26.
+(Font)              size <24.88> substituted on input line 28.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <14.93> not available
-(Font)              size <14.4> substituted on input line 26.
+(Font)              size <14.4> substituted on input line 28.
 
 
 LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <14.93> not available
-(Font)              size <14.4> substituted on input line 26.
+(Font)              size <14.4> substituted on input line 28.
 
 
 LaTeX Font Warning: Font shape `OML/cmm/b/it' in size <29.86> not available
-(Font)              size <24.88> substituted on input line 26.
+(Font)              size <24.88> substituted on input line 28.
 
 
 LaTeX Font Warning: Font shape `OML/cmm/b/it' in size <14.93> not available
-(Font)              size <14.4> substituted on input line 26.
+(Font)              size <14.4> substituted on input line 28.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/b/n' in size <29.86> not available
-(Font)              size <24.88> substituted on input line 26.
+(Font)              size <24.88> substituted on input line 28.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/b/n' in size <14.93> not available
-(Font)              size <14.4> substituted on input line 26.
+(Font)              size <14.4> substituted on input line 28.
 
 [17]
 
-LaTeX Warning: Command \cyrs invalid in math mode on input line 114.
+LaTeX Warning: Command \cyrs invalid in math mode on input line 115.
 
 Missing character: There is no с in font cmr10!
 
-LaTeX Warning: Command \cyrs invalid in math mode on input line 116.
+LaTeX Warning: Command \cyrs invalid in math mode on input line 117.
 
 Missing character: There is no с in font cmr10!
 
-LaTeX Warning: Command \cyrs invalid in math mode on input line 119.
+LaTeX Warning: Command \cyrs invalid in math mode on input line 120.
 
 Missing character: There is no с in font cmr10!
 [18]
 
-LaTeX Warning: Command \cyrs invalid in math mode on input line 139.
+LaTeX Warning: Command \cyrs invalid in math mode on input line 140.
 
 Missing character: There is no с in font cmr10!
 
-LaTeX Warning: Command \cyrs invalid in math mode on input line 141.
+LaTeX Warning: Command \cyrs invalid in math mode on input line 142.
 
 Missing character: There is no с in font cmr10!
-[19] [20]
-Overfull \hbox (17.29295pt too wide) in paragraph at lines 237--238
+[19] [20] [21]
+Overfull \hbox (17.29295pt too wide) in paragraph at lines 238--239
 []\T2A/ftm/b/n/14.4 Решать си^^?сте^^?му бу^^?дем с по^^?мо^^?щью квад^^?ра^^?т
 у^^?ры, ко^^?гда на^^?хо^^?дят^^?ся $\OML/cmm/m/it/14.4 x[]$\T2A/ftm/b/n/14.4 ,
 $\OML/cmm/m/it/14.4 x[]$
  []
 
-[21]
 PGFPlots: reading {data/solar_model.dat}
- [22]
-<data/grid/grid-30-30.png, id=364, 1385.175pt x 762.59906pt>
+<data/grid/grid-30-30.png, id=357, 1385.175pt x 762.59906pt>
 File: data/grid/grid-30-30.png Graphic file (type png)
 <use data/grid/grid-30-30.png>
-Package pdftex.def Info: data/grid/grid-30-30.png  used on input line 301.
+Package pdftex.def Info: data/grid/grid-30-30.png  used on input line 302.
 (pdftex.def)             Requested size: 253.48454pt x 210.59393pt.
- [23 <./data/grid/grid-30-30.png>] [24] [25] [26]
-Overfull \hbox (13.13306pt too wide) detected at line 446
-\OML/cmm/m/it/14.4 s \OT1/cmr/m/n/14.4 = [][]
+[22] [23 <./data/grid/grid-30-30.png>]
+Overfull \hbox (12.72089pt too wide) in paragraph at lines 316--317
+\T2A/ftm/b/n/14.4 объ^^?е^^?ма. По^^?это^^?му, ис^^?хо^^?дя из ([]2.19[]), этот
+ фак^^?тор ста^^?нет рав^^?ным $\OML/cmm/m/it/14.4 N[]dt=T\OT1/cmr/m/n/14.4 (\O
+ML/cmm/m/it/14.4 E[]; L[]\OT1/cmr/m/n/14.4 )$\T2A/ftm/b/n/14.4 .
  []
 
+[24] [25] [26]
+Overfull \hbox (19.44963pt too wide) detected at line 447
+\OML/cmm/m/it/14.4 s \OT1/cmr/m/n/14.4 = [] \OML/cmm/m/it/14.4 ;[]
+ []
+
+[27]
 
 LaTeX Warning: Command \cyri invalid in math mode on input line 457.
 
 Missing character: There is no и in font cmr12!
-[27] [28]
+[28] [29]
 Overfull \hbox (24.97493pt too wide) detected at line 527
 [][][]
  []
 
-[29]) (chapters/chapter_3.tex [30]
+) (chapters/chapter_3.tex [30]
 PGFPlots: reading {data/capture_rate_100GeV.txt}
 PGFPlots: reading {data/capture_rate_100GeV.txt}
 
@@ -1499,12 +1508,12 @@ PGFPlots: reading {data/_earth_sun_20GeV.txt}
 PGFPlots: reading {data/_earth_sun_100GeV.txt}
 PGFPlots: reading {data/_earth_sun_100GeV.txt}
  [32]
-<data/CL_INIT_100_100_sun.png, id=464, 328.22626pt x 268.75406pt>
+<data/CL_INIT_100_100_sun.png, id=466, 328.22626pt x 268.75406pt>
 File: data/CL_INIT_100_100_sun.png Graphic file (type png)
 <use data/CL_INIT_100_100_sun.png>
 Package pdftex.def Info: data/CL_INIT_100_100_sun.png  used on input line 100.
 (pdftex.def)             Requested size: 249.7572pt x 204.50536pt.
-<data/CH_INIT_100_100_sun.png, id=465, 285.31593pt x 268.75406pt>
+<data/CH_INIT_100_100_sun.png, id=467, 285.31593pt x 268.75406pt>
 File: data/CH_INIT_100_100_sun.png Graphic file (type png)
 <use data/CH_INIT_100_100_sun.png>
 Package pdftex.def Info: data/CH_INIT_100_100_sun.png  used on input line 101.
@@ -1519,47 +1528,53 @@ T2A/ftm/b/n/14.4 ,
  []
 
 [33 <./data/CL_INIT_100_100_sun.png> <./data/CH_INIT_100_100_sun.png>]
-<data/L-.png, id=477, 328.22626pt x 268.75406pt>
+<data/L-.png, id=479, 328.22626pt x 268.75406pt>
 File: data/L-.png Graphic file (type png)
 <use data/L-.png>
 Package pdftex.def Info: data/L-.png  used on input line 141.
 (pdftex.def)             Requested size: 255.86055pt x 209.50429pt.
-<data/H-.png, id=478, 273.27094pt x 268.75406pt>
+<data/H-.png, id=480, 273.27094pt x 268.75406pt>
 File: data/H-.png Graphic file (type png)
 <use data/H-.png>
 Package pdftex.def Info: data/H-.png  used on input line 142.
 (pdftex.def)             Requested size: 213.60992pt x 210.08252pt.
-<data/CL_1e-6_100_100.png, id=480, 328.22626pt x 268.75406pt>
+
+Overfull \hbox (9.39816pt too wide) in paragraph at lines 153--154
+\T2A/ftm/b/n/14.4 не^^?ния ([]2.42[]). При этом рас^^?смат^^?ри^^?ва^^?ет^^?ся 
+рас^^?пре^^?де^^?ле^^?ние $\OML/cmm/m/it/14.4 y$ \T2A/ftm/b/n/14.4 во вре^^?ме^
+^?нах $\OT1/cmr/m/n/14.4 10[]\OML/cmm/m/it/14.4 T[]$\T2A/ftm/b/n/14.4 ,
+ []
+
+<data/CL_1e-6_100_100.png, id=482, 328.22626pt x 268.75406pt>
 File: data/CL_1e-6_100_100.png Graphic file (type png)
 <use data/CL_1e-6_100_100.png>
 Package pdftex.def Info: data/CL_1e-6_100_100.png  used on input line 159.
 (pdftex.def)             Requested size: 253.51091pt x 207.57689pt.
-<data/CH_1e-6_100_100.png, id=481, 280.04625pt x 268.75406pt>
+<data/CH_1e-6_100_100.png, id=483, 280.04625pt x 268.75406pt>
 File: data/CH_1e-6_100_100.png Graphic file (type png)
 <use data/CH_1e-6_100_100.png>
 Package pdftex.def Info: data/CH_1e-6_100_100.png  used on input line 160.
 (pdftex.def)             Requested size: 215.95956pt x 207.26112pt.
-<data/CL_4_100_100.png, id=482, 328.22626pt x 233.37187pt>
+<data/CL_4_100_100.png, id=484, 328.22626pt x 233.37187pt>
 File: data/CL_4_100_100.png Graphic file (type png)
 <use data/CL_4_100_100.png>
 Package pdftex.def Info: data/CL_4_100_100.png  used on input line 165.
 (pdftex.def)             Requested size: 253.51091pt x 180.24884pt.
-<data/CH_4_100_100.png, id=483, 283.81032pt x 233.37187pt>
+<data/CH_4_100_100.png, id=485, 283.81032pt x 233.37187pt>
 File: data/CH_4_100_100.png Graphic file (type png)
 <use data/CH_4_100_100.png>
 Package pdftex.def Info: data/CH_4_100_100.png  used on input line 166.
 (pdftex.def)             Requested size: 215.95956pt x 177.58524pt.
-<data/L_1.png, id=484, 328.22626pt x 268.75406pt>
+<data/L_1.png, id=486, 328.22626pt x 268.75406pt>
 File: data/L_1.png Graphic file (type png)
 <use data/L_1.png>
 Package pdftex.def Info: data/L_1.png  used on input line 171.
 (pdftex.def)             Requested size: 253.51091pt x 207.57689pt.
-<data/H_1.png, id=485, 277.78781pt x 268.75406pt>
+<data/H_1.png, id=487, 277.78781pt x 268.75406pt>
 File: data/H_1.png Graphic file (type png)
 <use data/H_1.png>
 Package pdftex.def Info: data/H_1.png  used on input line 172.
 (pdftex.def)             Requested size: 215.95956pt x 208.93837pt.
-
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
@@ -1607,33 +1622,9 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 100.png> <./data/CH_4_100_100.png> <./data/L_1.png> <./data/H_1.png>] [36]
 PGFPlots: reading {data/cons/C_A_100GeV.txt}
 PGFPlots: reading {data/cons/C_A_100GeV.txt}
-
-
-LaTeX Warning: Command \CYRG invalid in math mode on input line 282.
-
-
-LaTeX Warning: Command \cyrerev invalid in math mode on input line 282.
-
-
-LaTeX Warning: Command \CYRV invalid in math mode on input line 282.
-
-Missing character: There is no Г in font cmr12!
-Missing character: There is no э in font cmr12!
-Missing character: There is no В in font cmr12!
 PGFPlots: reading {data/cons/C_A1000GeV.txt}
 PGFPlots: reading {data/cons/C_A1000GeV.txt}
 
-LaTeX Warning: Command \CYRG invalid in math mode on input line 289.
-
-
-LaTeX Warning: Command \cyrerev invalid in math mode on input line 289.
-
-
-LaTeX Warning: Command \CYRV invalid in math mode on input line 289.
-
-Missing character: There is no Г in font cmr12!
-Missing character: There is no э in font cmr12!
-Missing character: There is no В in font cmr12!
 [37]
 PGFPlots: reading {data/cons/tau_100GeV.txt}
 PGFPlots: reading {data/cons/W_100GeV.txt}
@@ -1643,13 +1634,8 @@ PGFPlots: reading {data/cons/tau_1000GeV.txt}
 PGFPlots: reading {data/cons/W_1000GeV.txt}
 PGFPlots: reading {data/cons/tau_1000GeV.txt}
 PGFPlots: reading {data/cons/W_1000GeV.txt}
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-) (chapters/conclusion.tex [38] [39]) (chapters/bibliography.tex [40
-
-] (main.bbl<<ot1tt.cmap>> [41] [42]
+ [38]) (chapters/conclusion.tex [39]) (chapters/bibliography.tex [40]
+(main.bbl<<ot1tt.cmap>> [41] [42]
 Underfull \hbox (badness 3333) in paragraph at lines 252--260
 []\OT1/cmr/m/n/14.4 A new gen-er-a-tion of stan-dard so-lar mod-els / N^^Suria 
 Viny-oles,
@@ -1664,22 +1650,19 @@ LaTeX Font Warning: Size substitutions with differences
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 
-LaTeX Warning: There were undefined references.
-
-
 LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 8B66B0F347B0A6D96758EAEAAD9410C0;5728.
  ) 
 Here is how much of TeX's memory you used:
- 40878 strings out of 475385
- 899713 string characters out of 2790968
- 1936851 words of memory out of 3000000
- 61247 multiletter control sequences out of 15000+600000
+ 40940 strings out of 475385
+ 900734 string characters out of 2790968
+ 1939814 words of memory out of 3000000
+ 61304 multiletter control sequences out of 15000+600000
  485182 words of font info for 76 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 89i,20n,83p,1959b,2655s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 89i,20n,83p,2096b,2655s stack positions out of 10000i,1000n,20000p,200000b,80000s
  <C:\Users\MainUser\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\lar
 m1000.pk> <C:\Users\MainUser\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi
 600\larm1440.pk> <C:\Users\MainUser\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-
@@ -1692,9 +1675,9 @@ oft/MikTex/fonts/type1/public/amsfonts/cm/cmr12.pfb><D:/Soft/MikTex/fonts/type1
 y10.pfb><D:/Soft/MikTex/fonts/type1/public/amsfonts/cm/cmsy7.pfb><D:/Soft/MikTe
 x/fonts/type1/public/amsfonts/cm/cmtt12.pfb><D:/Soft/MikTex/fonts/type1/public/
 amsfonts/symbols/msbm10.pfb>
-Output written on main.pdf (42 pages, 795622 bytes).
+Output written on main.pdf (42 pages, 796477 bytes).
 PDF statistics:
- 905 PDF objects out of 1000 (max. 8388607)
- 194 named destinations out of 1000 (max. 500000)
+ 907 PDF objects out of 1000 (max. 8388607)
+ 195 named destinations out of 1000 (max. 500000)
  257 words of extra memory for PDF output out of 10000 (max. 10000000)
 

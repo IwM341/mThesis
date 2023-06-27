@@ -8,10 +8,10 @@
 \contentsline {chapter}{2. ЧИСЛЕННЫЙ РАСЧЕТ ЗАХВАТА И ЭВОЛЮЦИИ ТЕМНОЙ МАТЕРИИ}{17}{chapter.2}%
 \contentsline {section}{\numberline {2.1.\hskip 1em}Расчет числа захваченных частиц}{17}{section.2.1}%
 \contentsline {section}{\numberline {2.2.\hskip 1em}Расчет распределения частиц}{20}{section.2.2}%
-\contentsline {section}{\numberline {2.3.\hskip 1em}Расчет интеграла столкновений}{23}{section.2.3}%
+\contentsline {section}{\numberline {2.3.\hskip 1em}Расчет интеграла столкновений}{24}{section.2.3}%
 \contentsline {section}{\numberline {2.4.\hskip 1em}Расчет темпа аннигиляции}{24}{section.2.4}%
 \contentsline {section}{\numberline {2.5.\hskip 1em}Уравнение эволюции}{26}{section.2.5}%
-\contentsline {section}{\numberline {2.6.\hskip 1em}Численное решение уравнений эволюции}{26}{section.2.6}%
+\contentsline {section}{\numberline {2.6.\hskip 1em}Численное решение уравнений эволюции}{27}{section.2.6}%
 \contentsline {section}{\numberline {2.7.\hskip 1em}Модификация уравнения для двухкомпонентной темной материи}{29}{section.2.7}%
 \contentsline {chapter}{3. РЕЗУЛЬТАТЫ}{31}{chapter.3}%
 \contentsline {section}{\numberline {3.1.\hskip 1em}Результаты расчета захваченных частиц}{31}{section.3.1}%
